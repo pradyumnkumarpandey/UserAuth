@@ -1,5 +1,5 @@
 # UserAuth
-##🔐 Building a Secure and Scalable Authentication System with FastAPI & SQLAlchemy! 💻  
+## 🔐 Building a Secure and Scalable Authentication System with FastAPI & SQLAlchemy! 💻  
 
 Here’s a quick overview of what it does:  
 
